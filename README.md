@@ -19,10 +19,9 @@ Unnamed Space Game is a singleplayer third person resource management shooter ga
 
 ## Learning Java Backend  
 
-As a UX/UI game designer, I'm always looking for ways to expand my skillset and create better, more immersive experiences for users. Recently, I've been learning Java backend development to improve my understanding of how games and applications work behind the scenes.
+As a UX/UI game designer, I'm always looking for ways to expand my skillset and create better, more immersive experiences for users. Recently, I've been learning Java  backend development to improve my understanding of how games and applications work behind the scenes.
 
-## Here are a couple of the resources I'm using to learn Java backend:  
-
+Here are a couple of the resources I'm using to learn Java backend:  
 
 [Bloomtech Institute of Technology](https://www.bloomtech.com/)  
 
