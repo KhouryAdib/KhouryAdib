@@ -1,4 +1,4 @@
-### Hi there, I'm Adib Khoury 👋
+# Hi there, I'm Adib Khoury 👋
 
 I'm a UX/UI game designer with a passion for creating immersive, interactive experiences. I'm currently expanding my skillset to include Java backend development, and I'm excited to share my progress and projects with the GitHub community.
 
@@ -13,7 +13,7 @@ I'm a UX/UI game designer with a passion for creating immersive, interactive exp
 
 ## I'm currently working on:  
 
-# Unnamed Space Game
+### Unnamed Space Game
 Unnamed Space Game is a singleplayer third person resource management shooter game. Players must manage their time to either explore on their ship, Hunt enemies for resources, and upgrade their own or ship strength. Players have a set amount of time to gather enough resources to win. They lose if they die or run out of time. I'm doing this solo, with several paid for assets. The project is built using UnityEngine with C#.
 <!-- remember to add links and screenshots later and upload the game to github pages -->
 
