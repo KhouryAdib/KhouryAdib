@@ -7,18 +7,12 @@ Location: Frisco, TX
 Skills: UX/UI design, Game design, Java, C#, HTML/CSS, JavaScript
 Portfolio: [[My Portfolio]](https://sites.google.com/view/adibkhouryportfolio)
 
-Projects
-Here are a couple of projects I'm currently working on:
+I'm currently working on:
 
-[Project Name]
-[Project Name] is a [brief description of the project]. I'm responsible for [your role on the project]. The project is built using [technologies used].
+Unnamed Space Game
+Unnamed Space Game is a singleplayer third person resource management shooter game. Players must manage their time to either explore on their ship, Hunt enemies for resources, and upgrade their own or ship strength. Players have a set amount of time to gather enough resources to win. They lose if they die or run out of time. I'm doing this solo, with several paid for assets. The project is built using UnityEngine with C#.
 
-[Link to the project repository]
-
-[Project Name]
-[Project Name] is a [brief description of the project]. I'm responsible for [your role on the project]. The project is built using [technologies used].
-
-[Link to the project repository]
+[Unnamed Space Game is in the preproduction phase]<!--- remember to add links and screenshots later and upload the game to github pages --->
 
 Learning Java Backend
 As a UX/UI game designer, I'm always looking for ways to expand my skillset and create better, more immersive experiences for users. Recently, I've been learning Java backend development to improve my understanding of how games and applications work behind the scenes.
