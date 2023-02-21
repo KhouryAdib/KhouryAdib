@@ -1,6 +1,6 @@
 # Hi there, I'm Adib Khoury 👋
 ![Adib on a tuesday](https://github.com/KhouryAdib/KhouryAdib/blob/main/AdibGitBugs.png)
-I'm a UX/UI game designer with a passion for creating immersive, interactive experiences. I'm currently expanding my skillset to include Java backend development, and I'm excited to share my progress and projects with the GitHub community.
+I'm a UX/UI designer and Full Stack Developer with a passion for creating immersive, interactive experiences. I'm currently expanding my skillset to include Java backend development, and I'm excited to share my progress and projects with the GitHub community.
 
 ## About Me  
 
